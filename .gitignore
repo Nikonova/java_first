@@ -12,3 +12,7 @@ gradle-app.setting
 
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
+.DS_Store
+Sandbox/build/classes/java/main/Test.class
+Sandbox/build/libs/Sandbox.jar
+Sandbox/build/tmp/jar/MANIFEST.MF
