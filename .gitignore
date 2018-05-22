@@ -16,3 +16,4 @@ gradle-app.setting
 Sandbox/build/classes/java/main/Test.class
 Sandbox/build/libs/Sandbox.jar
 Sandbox/build/tmp/jar/MANIFEST.MF
+.idea/workspace.xml
